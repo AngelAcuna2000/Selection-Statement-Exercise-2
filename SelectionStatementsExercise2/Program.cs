@@ -18,25 +18,25 @@
 
                 case "science":
                     {
-                        Console.WriteLine("Your favorite subject is math");
+                        Console.WriteLine("Your favorite subject is science");
                     }
                     break;
 
                 case "pe":
                     {
-                        Console.WriteLine("Your favorite subject is math");
+                        Console.WriteLine("Your favorite subject is pe");
                     }
                     break;
 
                 case "english":
                     {
-                        Console.WriteLine("Your favorite subject is math");
+                        Console.WriteLine("Your favorite subject is english");
                     }
                     break;
 
                 case "history":
                     {
-                        Console.WriteLine("Your favorite subject is math");
+                        Console.WriteLine("Your favorite subject is history");
                     }
                     break;
 
